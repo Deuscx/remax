@@ -32,7 +32,7 @@
   "devDependencies": {
     "@babel/core": "^7.11.0",
     "@types/jest": "^26.0.8",
-    "babel-plugin-tester": "^9.2.0"
+    "babel-plugin-tester": "^10.0.0"
   },
   "gitHead": "df52bc6f39ef4b222b7da44c4e3c5744e4196a43"
 }
