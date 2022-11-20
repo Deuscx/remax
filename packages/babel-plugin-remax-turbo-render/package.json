@@ -33,7 +33,7 @@
     "@babel/core": "^7.11.0",
     "@remax/build-store": "2.15.14",
     "@types/jest": "^26.0.8",
-    "babel-plugin-tester": "^9.2.0"
+    "babel-plugin-tester": "^10.1.0"
   },
   "gitHead": "14d4b95d916a55e4ecbe5fbda933bbc57018d7df"
 }
