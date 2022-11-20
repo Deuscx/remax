@@ -30,7 +30,7 @@
     "cross-env": "^6.0.3",
     "http-server": "^0.12.3",
     "jest-puppeteer": "^6.0.3",
-    "merge": "^1.2.1"
+    "merge": "^2.1.1"
   },
   "workspaces": {
     "nohoist": [
